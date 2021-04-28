@@ -1,0 +1,20 @@
+{
+  "name": "cocoa-absolute-time-to-date-object",
+  "version": "0.0.1",
+  "description": "Npm package for convert Apple Core Foundation Absolute Time to Javascript Date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casepl/MacAbsolutTimeToDate.git"
+  },
+  "author": "Casepl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Casepl/MacAbsolutTimeToDate/issues"
+  },
+  "homepage": "https://github.com/Casepl/MacAbsolutTimeToDate#readme"
+}
